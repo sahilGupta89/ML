@@ -11,6 +11,7 @@ Y_pred = []
 numer = 0
 denom = 0
 
+print(x_data,y_data)
 for i in range(len(x_data)):
     numer += (x_data[i] - x_mean)*(y_data[i] - y_mean)
     denom += (x_data[i]-x_mean)**2
