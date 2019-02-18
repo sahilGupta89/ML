@@ -10,5 +10,3 @@ sw = stopwords.words('english')
 
 print('?????',[t for t in tokens if t not in sw])
 print('done')
-
-
