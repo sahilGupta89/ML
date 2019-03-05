@@ -1,20 +1,107 @@
 import nltk
 import random
-from nltk.corpus import movie_reviews
+from nltk.tokenize import sent_tokenize,word_tokenize
+from nltk.corpus import movie_reviews,stopwords
+import nltk.corpus.reader.plaintext as rd
 import  pickle
 from nltk.classify.scikitlearn import SklearnClassifier
 from sklearn.naive_bayes import MultinomialNB,BernoulliNB
 from sklearn.linear_model import LogisticRegression,SGDClassifier
 from sklearn.svm import SVC, LinearSVC, NuSVC
+import nltk.data
+# mypath = os.path.expanduser('~/nltk_data')
+#
+# negative = nltk.data.load('tweeter_review/neg/negative.txt',format='auto')
+# positive = nltk.data.load('tweeter_review/neg/negative.txt',format='auto')
 
-# tweeter_review=reader.
-# print(tweeter_review)
+# document = [([],neg),([],pos)]
+# final_pos_file = sent_tokenize(positive)
+# final_neg_file = sent_tokenize(negative)
+#
+# documents = [(data,'neg') for data in negative]
+#
+# # for data in final_neg_file:
+# #     documents.append((data, 'neg'))
+#
+# for data in final_pos_file:
+#     documents.append((data, 'pos'))
+#
+# random.shuffle(documents)
+#
+# stop_words = set(stopwords.words('english'))
+#
+# word_tokens_pos = word_tokenize(positive)
+# word_tokens_neg = word_tokenize(negative)
+#
+# all_words = [w.lower() for w in word_tokens_pos if not w in stop_words]
+#
+# for w in word_tokens_neg:
+#     if w not in stop_words:
+#         all_words.append(w.lower())
+#
+# all_words = nltk.FreqDist(all_words)
+#
+# word_features = list(all_words.keys())[:1500]
+#
+#
+# def find_features(document):
+#     print(document, 'asdasdasd')
+#     words = set(document)
+#     features = {}
+#     for w in word_features:
+#         features[w] = (w in words)
+#
+#     return features
+#
+#
+# featuresets = [(find_features(rev), category) for (rev, category) in documents]
+#
+# print('\nAAAAAAAAAAAA', featuresets[:100])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 documents = [(list(movie_reviews.words(fileid)), category)
              for category in movie_reviews.categories()
              for fileid in movie_reviews.fileids(category)]
-print('document',movie_reviews,movie_reviews.categories())
+print('document',documents,movie_reviews,movie_reviews.categories())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 random.shuffle(documents)
 
 all_words = []
@@ -23,11 +110,12 @@ for w in movie_reviews.words():
     all_words.append(w.lower())
 
 all_words = nltk.FreqDist(all_words)
-
+print(len(all_words))
 word_features = list(all_words.keys())[:3000]
-
+print(len(word_features))
 def find_features(document):
     words = set(document)
+
     features = {}
     for w in word_features:
         features[w] = (w in words)
@@ -35,6 +123,7 @@ def find_features(document):
     return features
 print((find_features(movie_reviews.words('neg/cv000_29416.txt'))))
 featuresets = [(find_features(rev), category) for (rev, category) in documents]
+print(len(featuresets))
 
 # set that we'll train our classifier with
 training_set = featuresets[:1900]
