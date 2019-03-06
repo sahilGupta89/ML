@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73dcffd6-e9f4-4f30-aeda-eac4e67ec5e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assignments/webscraping_task/dummy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/webscraping_task/index.js.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nlp_practice/disease_pred/gatherdata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nlp_practice/senti_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nlp_practice/twitter_clasifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/image.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nlp_practice/naivebayes.pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nlp_practice/save_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/nlp_practice/save_classifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nlp_practice/tweeter_review/negative.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nlp_practice/tweeter_review/positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/webscraping_task/index.js.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/webscraping_task/index.js.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,20 +16,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignments/webscraping_task/index.js.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            <state relative-caret-position="147">
+              <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding>
                 <element signature="e#29#44#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/image.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -70,6 +52,7 @@
       <find>background-image:</find>
       <find>img</find>
       <find>background</find>
+      <find>CatalogResults__CatalogListItem___2qCwP</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -128,20 +111,13 @@
             <path>
               <item name="ML" type="b2602c69:ProjectViewProjectNode" />
               <item name="ML" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ML" type="b2602c69:ProjectViewProjectNode" />
               <item name="ML" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ML" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="webscraping_task" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,13 +285,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992236" visible="true" weight="0.3875969" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39224806" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992236" visible="true" weight="0.1751938" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1875969" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32868218" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32713178" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007764" side_tool="true" weight="0.32868218" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.6217054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -325,6 +301,36 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>links</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>soup_content</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cssutils.parseStyle(link['style'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cssutils</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cssutils.parseStyle(link['style'])['background-image']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>link</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>li</expression-string>
         <language-id>Python</language-id>
@@ -337,36 +343,6 @@
       </expression>
       <expression>
         <expression-string>images</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>location</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>dataset</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>featuresets</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>all_words</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>word_features</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>words</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -722,15 +698,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="285">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/webscraping_task/index.js.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="147">
+          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
           <folding>
             <element signature="e#29#44#0" expanded="true" />
           </folding>
