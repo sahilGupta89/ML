@@ -9,20 +9,20 @@ categories = ['wine/c3', 'beer/c2', 'liquor/c4']
 wines = []
 beers = []
 liquor = []
-myFile = open('drizly.csv', 'w')
+myFile = open('drizly_page_51_100.csv', 'w')
 myFile.write("CATEGORY, TITLE, LOW, HIGH,URL\n")
 
+
 def prep_links(catg):
-    for cnt in range(1, 417):
+    for cnt in range(51, 101):
+        print('page-',catg,cnt)
         url = ''
         if (cnt == 1):
             url = base_url + catg
         else:
             url = base_url + catg + '/page' + str(cnt)
         soup_content = BeautifulSoup(requests.get(url).content, 'lxml')
-        # print('req1 start')
         time.sleep(2)
-        # print('continue1')
         if (catg == 'wine/c3'):
             wines.extend(soup_content.find_all("li", {'class': 'CatalogResults__CatalogListItem___2qCwP'}))
 
@@ -35,9 +35,7 @@ def writetocsv(list_,category):
     for link in list_:
         prod_url = base_url + link.findChildren("a")[0]['href']
         raw_page = BeautifulSoup(requests.get(prod_url).content, 'lxml')
-        # print('req2 start')
         time.sleep(2)
-        # print('continue2')
         try:
             url = raw_page.find_all('div',{'class': 'ProductMeta__product-image'})[0].findChildren('img')[0]['src']
         except:
@@ -54,14 +52,9 @@ def writetocsv(list_,category):
             high = raw_page.findChildren('span', {'class': 'value'})[0].get_text().replace(" ", "").split('-')[1][1:]
         except:
             high = 0
-        # print('low,high,url,title',low,high,url,title)
         myFile.write(category+","+title+"," +str(low)+","+str(high)+","+url+"\n")
 
-        # with myFile:
-        #     myFields =
-        #     writer = csv.DictWriter(myFile, fieldnames=myFields)
-        #     writer.writeheader()
-        #     writer.writerow({'TITLE': title, 'CATEGORY': 'WINE', 'LOW': low, 'HIGH': high, 'URL': url})
+
 def taskforce():
     for catg in categories:
         prep_links(catg)
