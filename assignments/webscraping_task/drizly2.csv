@@ -1,0 +1,500 @@
+CATEGORY, TITLE, LOW, HIGH,URL
+WINE,The Pinot Project Pinot Noir,9.87,19.99,https://products1.imgix.drizly.com/ci-the-pinot-project-pinot-noir-b03eba6f23633273.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Pinot Grigio,4.99,13.00,https://products0.imgix.drizly.com/ci-barefoot-pinot-grigio-94f993464a0eec70.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Kim Crawford Sauvignon Blanc,6.99,38.99,https://products3.imgix.drizly.com/ci-kim-crawford-sauvignon-blanc-3e0d9d465b786741.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Kendall Jackson Vintner's Reserve Chardonnay,9.75,222.99,https://products2.imgix.drizly.com/ci-kendall-jackson-chardonnay-0708add60936e6e3.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Starborough Sauvignon Blanc,8.99,23.99,https://products1.imgix.drizly.com/ci-starborough-sauvignon-blanc-466187b582cf1601.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,19 Crimes Cabernet Sauvignon,6.99,23.09,https://products3.imgix.drizly.com/ci-19-crimes-cabernet-sauvignon-e8810883bfcb6460.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Meiomi Pinot Noir,14.99,49.99,https://products1.imgix.drizly.com/ci-meiomi-pinot-noir-d0c933fc00870c37.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Josh Cellars Cabernet Sauvignon,9.96,29.99,https://products1.imgix.drizly.com/ci-josh-cellars-cabernet-sauvignon-c375f665c8fd9215.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Cabernet Sauvignon,5.99,18.99,https://products3.imgix.drizly.com/ci-dark-horse-cabernet-sauvignon-666b7be866b1e5b3.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Apothic Red,7.00,18.94,https://products3.imgix.drizly.com/ci-apothic-red-c276fd841429e57f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Sauvignon Blanc,None,None,https://products1.imgix.drizly.com/ci-bota-box-sauvignon-blanc-4da0365528d13e51.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,La Marca Prosecco,9.99,29.99,https://products2.imgix.drizly.com/ci-la-marca-prosecco-ae086f160057100c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Cabernet Sauvignon,20.99,None,https://products1.imgix.drizly.com/ci-black-box-cabernet-sauvignon-3623d18c18299f83.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Oyster Bay Sauvignon Blanc,8.88,28.99,https://products0.imgix.drizly.com/ci-oyster-bay-sauvignon-blanc-12a27756f240182c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Matua Sauvignon Blanc,4.59,22.94,https://products2.imgix.drizly.com/ci-matua-sauvignon-blanc-e4e1ad1a92c588bb.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Rosé,5.99,15.99,https://products1.imgix.drizly.com/ci-dark-horse-rose-73b18f36de637342.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Pinot Grigio,None,None,https://products3.imgix.drizly.com/ci-bota-box-pinot-grigio-c869d98eeec3c918.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Decoy Cabernet Sauvignon,16.99,45.09,https://products1.imgix.drizly.com/ci-decoy-cabernet-sauvignon-df2fe544f6a272ce.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Alamos Malbec,1.49,18.99,https://products2.imgix.drizly.com/ci-alamos-malbec-01f67647cc1ca623.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Apothic Inferno,9.99,24.99,https://products1.imgix.drizly.com/ci-apothic-inferno-762bd3bbc39f5fc1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Veuve Clicquot Brut Yellow Label,39.98,114.99,https://products1.imgix.drizly.com/ci-veuve-clicquot-yellow-label-3d99da125d8c84f1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,19 Crimes Red Blend,6.99,23.09,https://products3.imgix.drizly.com/ci-19-crimes-red-blend-8d19b0ad033b9a89.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Cabernet Sauvignon,None,None,https://products1.imgix.drizly.com/ci-bota-box-cabernet-sauvignon-6d1aa1c050d845cf.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mionetto Prosecco Brut,6.99,24.99,https://products3.imgix.drizly.com/ci-mionetto-prosecco-brut-65e165d2074c25f1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Educated Guess Napa Valley Cabernet Sauvignon,16.99,37.99,https://products1.imgix.drizly.com/ci-educated-guess-cabernet-sauvignon-848c058c410efd55.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Sauvignon Blanc,5.39,14.99,https://products3.imgix.drizly.com/ci-dark-horse-sauvignon-blanc-6b2f430419af4542.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Santa Margherita Pinot Grigio DOC,16.99,42.99,https://products1.imgix.drizly.com/ci-santa-margherita-pinot-grigio-a109ad1d9ab9cf63.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cavit Pinot Grigio,4.99,19.09,https://products2.imgix.drizly.com/ci-cavit-pinot-grigio-38037095056066cf.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Pinot Noir,4.99,12.09,https://products0.imgix.drizly.com/ci-barefoot-pinot-noir-7b4644f07046feab.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mark West Pinot Noir,6.99,21.99,https://products3.imgix.drizly.com/ci-mark-west-pinot-noir-9dd7cfd74fb70f01.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau d'Esclans Whispering Angel Rosé,9.99,48.99,https://products0.imgix.drizly.com/ci-whispering-angel-rose-80158a4d438d36e2.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Chardonnay,6.99,25.09,https://products2.imgix.drizly.com/ci-bogle-chardonnay-10981fa3a6c4f8bc.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Pinot Noir,5.99,15.99,https://products2.imgix.drizly.com/ci-dark-horse-pinot-noir-0416f4fc31cc69eb.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Woodbridge Chardonnay,4.78,15.09,https://products3.imgix.drizly.com/ci-woodbridge-chardonnay-8f3d0ecdebaf7b2f.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Pink Moscato,4.99,12.09,https://products0.imgix.drizly.com/ci-barefoot-pink-moscato-3bde98111ac333cd.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,La Crema Sonoma Coast Chardonnay,9.99,39.99,https://products1.imgix.drizly.com/ci-la-crema-sonoma-coast-chardonnay-fbc9fd94b43f13ed.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Punto Final Malbec,9.87,22.99,https://products3.imgix.drizly.com/ci-punto-final-malbec-36ea2047624bc95d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Moscato,2.49,12.09,https://products1.imgix.drizly.com/ci-barefoot-moscato-80f2e8eb500360b4.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Freixenet Cava Brut Cordon Negro,7.98,25.99,https://products1.imgix.drizly.com/ci-freixenet-cava-brut-cordon-negro-a1ed6bf5a0cc21d6.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Chardonnay,None,None,https://products0.imgix.drizly.com/ci-black-box-chardonnay-4144f360604a3e9f.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Korbel Brut California Champagne,9.89,22.87,https://products0.imgix.drizly.com/ci-korbel-brut-53d9b2bb38635868.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Joel Gott 815 Cabernet Sauvignon,9.99,32.09,https://products2.imgix.drizly.com/ci-joel-gott-815-cabernet-sauvignon-d28bab56ef288b89.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Chardonnay,None,None,https://products1.imgix.drizly.com/ci-bota-box-chardonnay-7bfc6c91b49a4b71.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cook's Brut Champagne,4.99,15.99,https://products0.imgix.drizly.com/ci-cooks-brut-imperial-57973e1d6d58e6b0.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Menage A Trois Red,6.99,19.09,https://products3.imgix.drizly.com/ci-menage-a-trois-red-bf9acbcc5d04c9b3.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Prosecco,7.99,20.09,https://products2.imgix.drizly.com/ci-cupcake-prosecco-a54a470bb3711dd1.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Malbec,None,None,https://products1.imgix.drizly.com/ci-bota-box-malbec-6d5bcff5f6e5af04.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Cabernet Sauvignon,7.99,28.09,https://products3.imgix.drizly.com/ci-bogle-cabernet-sauvignon-2a6ee60c95880a48.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Chardonnay,4.99,12.09,https://products2.imgix.drizly.com/ci-barefoot-chardonnay-50b65c6cd0191014.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,J. Lohr Cabernet Sauvignon Seven Oaks,11.97,29.99,https://products1.imgix.drizly.com/ci-j-lohr-seven-oaks-cabernet-sauvignon-1160f9b560b3f262.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bread & Butter Pinot Noir,10.99,26.99,https://products3.imgix.drizly.com/ci-bread-butter-pinot-noir-5d8f6a79ed3f0327.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Whitehaven Sauvignon Blanc,10.99,28.99,https://products2.imgix.drizly.com/ci-white-haven-sauvignon-blanc-7cb21dd0ca2d8d38.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Sauvignon Blanc,6.97,44.99,https://products3.imgix.drizly.com/ci-cupcake-sauvignon-blanc-0d042a748564abd0.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Zaccagnini Montepulciano,11.98,29.99,https://products1.imgix.drizly.com/ci-zaccagnini-montepulciano-590be01d8dd5ddc3.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,La Crema Sonoma Coast Pinot Noir,15.99,42.99,https://products3.imgix.drizly.com/ci-la-crema-sonoma-coast-pinot-noir-b1a75d7f9d66381d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Justin Cabernet Sauvignon,19.98,57.99,https://products1.imgix.drizly.com/ci-justin-vineyards-cabernet-sauvignon-ca17fe98a1eb157c.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Moet & Chandon Imperial Brut Champagne,9.99,95.99,https://products0.imgix.drizly.com/ci-moet-chandon-imperial-brut-champagne-d902e4f978d18721.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Pinot Noir,None,None,https://products1.imgix.drizly.com/ci-bota-box-pinot-noir-eafc714f6cfcbcb2.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Excelsior Cabernet Sauvignon,6.85,14.99,https://products0.imgix.drizly.com/ci-excelsior-cabernet-sauvignon-0f508d4988a77128.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ruffino Prosecco,5.99,28.99,https://products2.imgix.drizly.com/ci-ruffino-prosecco-ebf3d874a33d3ccd.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Cabernet Sauvignon,3.99,15.09,https://products1.imgix.drizly.com/ci-yellow-tail-cabernet-sauvignon-3174f11772c2d500.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Tilia Malbec,7.57,17.99,https://products2.imgix.drizly.com/ci-tilia-malbec-4cd24c310a82202c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Josh Cellars Chardonnay,9.97,24.99,https://products2.imgix.drizly.com/ci-josh-cellars-chardonnay-6b89ecc55b7b8c57.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Josh Cellars Pinot Noir,12.48,37.99,https://products2.imgix.drizly.com/ci-josh-cellars-pinot-noir-253f38edec3ed484.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Chardonnay,None,None,https://products2.imgix.drizly.com/ci-franzia-chardonnay-afe78171969eedeb.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Sauvignon Blanc,4.99,13.00,https://products3.imgix.drizly.com/ci-barefoot-sauvignon-blanc-48a57fe0d14ebc5b.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Rosé,4.99,20.99,https://products1.imgix.drizly.com/ci-bota-box-rose-c8fa6facdcaa8c9d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Chardonnay,3.99,15.09,https://products2.imgix.drizly.com/ci-yellow-tail-chardonnay-70f9f402f9099a02.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,A to Z Pinot Noir,9.99,29.99,https://products0.imgix.drizly.com/ci-a-to-z-pinot-noir-0fd75a64858c0b8e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,KRIS Pinot Grigio,7.99,24.99,https://products0.imgix.drizly.com/ci-kris-pinot-grigio-f8b38f7b245138f7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Pinot Grigio,4.98,15.09,https://products2.imgix.drizly.com/ci-yellow-tail-pinot-grigio-8833721212a22fb0.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Casillero del Diablo Malbec,4.99,19.09,https://products2.imgix.drizly.com/ci-casillero-del-diablo-malbec-f904c6491dc61cec.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,La Vieille Ferme Rosé,6.98,16.09,https://products0.imgix.drizly.com/ci-la-vieille-ferme-rose-8f29ebbe1fba46b9.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Chardonnay,6.99,23.99,https://products1.imgix.drizly.com/ci-cupcake-chardonnay-9b707dff12932f7c.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Butter Chardonnay,9.99,30.09,https://products0.imgix.drizly.com/ci-butter-chardonnay-1d21839b3c585c96.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Pinot Grigio,None,None,https://products0.imgix.drizly.com/ci-black-box-pinot-grigio-2d9c27443b3f2d7b.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Relax Riesling,7.98,27.09,https://products1.imgix.drizly.com/ci-relax-riesling-d356d2628c74619d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Apothic Rosé,7.99,18.83,https://products2.imgix.drizly.com/ci-apothic-rose-ae4a156ad00edb82.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,The Pinot Project Pinot Grigio,9.87,17.99,https://products3.imgix.drizly.com/ci-the-pinot-project-pinot-grigio-d62fceff540d1435.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bread & Butter Chardonnay,10.99,24.99,https://products2.imgix.drizly.com/ci-bread-butter-chardonnay-ddc65d342b0c12f1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ecco Domani Pinot Grigio,1.00,17.99,https://products2.imgix.drizly.com/ci-ecco-domani-pinot-grigio-29cfa1d3dbbad4f0.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Merlot,6.59,99.99,https://products3.imgix.drizly.com/ci-bogle-merlot-1e8e14414a629159.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Woodbridge By Robert Mondavi Cabernet Sauvignon,3.99,16.09,https://products2.imgix.drizly.com/ci-woodbridge-by-robert-mondavi-cabernet-sauvignon-337f568dec1da094.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Michael David Petite Petit,11.98,30.09,https://products2.imgix.drizly.com/ci-michael-david-petite-petit-baeb5601e81486a3.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Robert Mondavi Private Selection Cabernet Sauvignon,6.75,24.99,https://products3.imgix.drizly.com/ci-robert-mondavi-private-selection-cabernet-sauvignon-e7fe8fdbc99a4605.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Sauvignon Blanc,None,None,https://products2.imgix.drizly.com/ci-black-box-sauvignon-blanc-dc7a747b8700b275.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Carnivor Cabernet Sauvignon,8.98,20.09,https://products2.imgix.drizly.com/ci-carnivor-cabernet-sauvignon-a784bfe3d008d929.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Francis Coppola Diamond Collection Black Label Claret,11.99,35.09,https://products0.imgix.drizly.com/ci-francis-coppola-diamond-collection-black-label-claret-eed5dbbf079e70ed.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Clos Du Bois Chardonnay,4.99,21.99,https://products3.imgix.drizly.com/ci-clos-du-bois-chardonnay-b7ef3383eb834a88.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Andre Brut,4.78,14.99,https://products3.imgix.drizly.com/ci-andre-brut-0ef3807c4da1bd19.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Joel Gott Sauvignon Blanc,6.99,25.94,https://products0.imgix.drizly.com/ci-joel-gott-sauvignon-blanc-8d9592efe89d0c98.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Freakshow Cabernet Sauvignon,13.99,35.09,https://products3.imgix.drizly.com/ci-freakshow-cabernet-sauvignon-9647e0ff899454a2.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Steak House Cabernet Sauvignon,8.99,21.09,https://products0.imgix.drizly.com/ci-steak-house-cabernet-sauvignon-1335e42a90603374.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Decoy Pinot Noir,16.99,47.09,https://products0.imgix.drizly.com/ci-decoy-pinot-noir-da3856ec1617a5f9.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Prophecy Marlborough Sauvignon Blanc,8.98,20.09,https://products2.imgix.drizly.com/ci-prophecy-marlborough-sauvignon-blanc-2acc4c615ef6b726.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,The Prisoner Red Blend,34.99,91.99,https://products2.imgix.drizly.com/ci-the-prisoner-red-e2dd2069eea82798.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Pinot Noir,None,None,https://products2.imgix.drizly.com/ci-black-box-pinot-noir-6e3665aadda9685c.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Sonoma-Cutrer Sonoma Coast Chardonnay,17.99,42.99,https://products3.imgix.drizly.com/ci-sonoma-cutrer-chardonnay-sonoma-coast-d179a62a9b68bb42.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Ste. Michelle Riesling,6.98,22.09,https://products1.imgix.drizly.com/ci-chateau-ste-michelle-riesling-adac2411fa258b70.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Ste. Michelle Chardonnay,7.00,27.09,https://products1.imgix.drizly.com/ci-chateau-ste-michelle-chardonnay-0a7e055eec5f9ec5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Stag's Leap Artemis Cabernet Sauvignon,44.95,100.09,https://products2.imgix.drizly.com/ci-stags-leap-artemis-cabernet-sauvignon-fbe60cde9c6ac734.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Leese-Fitch Pinot Noir,6.99,18.99,https://products3.imgix.drizly.com/ci-leese-fitch-pinot-noir-c241fa960c58cc0e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Nobilo Sauvignon Blanc,7.96,20.09,https://products2.imgix.drizly.com/ci-nobilo-regional-collection-sauvignon-blanc-5633402b68129538.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Gekkeikan Sake,4.98,13.59,https://products3.imgix.drizly.com/ci-gekkeikan-sake-47cf3cc1dc6022c3.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ruffino Lumina Pinot Grigio,6.98,19.99,https://products1.imgix.drizly.com/ci-ruffino-lumina-pinot-grigio-901d726318ce8c33.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Josh Cellars Sauvignon Blanc,9.97,24.99,https://products3.imgix.drizly.com/ci-josh-cellars-sauvignon-blanc-532d297b15219429.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box RedVolution,None,None,https://products1.imgix.drizly.com/ci-bota-box-redvolution-aaf5a0f33a45cce0.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Francis Coppola Diamond Collection Ivory Label Cabernet Sauvignon,9.99,33.09,https://products0.imgix.drizly.com/ci-francis-coppola-diamond-collection-ivory-label-cabernet-sauvignon-0536362a83aa1988.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Shiraz,3.99,39.99,https://products3.imgix.drizly.com/ci-yellow-tail-shiraz-db7f10045e489134.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Layer Cake Malbec,9.99,32.09,https://products1.imgix.drizly.com/ci-layer-cake-malbec-1b69b13161e4a315.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Casal Garcia Vinho Verde White,4.47,14.99,https://products3.imgix.drizly.com/ci-casal-garcia-vinho-verde-8517a6b47f77d0cb.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Veuve Clicquot Yellow Label Gift Box,42.99,89.99,https://products3.imgix.drizly.com/ci-veuve-clicquot-yellow-label-gift-box-646d30182be0f67b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,90+ Cellars Sauvignon Blanc (Lot 2),7.49,17.99,https://products0.imgix.drizly.com/ci-90-cellars-sauvignon-blanc-lot-2-f1fa15f18688e84a.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Beringer White Zinfandel,3.98,64.99,https://products1.imgix.drizly.com/ci-beringer-white-zinfandel-c0a59b5bbe14491d.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Honig Napa Valley Sauvignon Blanc,13.95,23.99,https://products2.imgix.drizly.com/ci-honig-napa-valley-sauvignon-blanc-77402aa4191a90bd.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Korbel Extra Dry California Champagne,9.97,24.99,https://products0.imgix.drizly.com/ci-korbel-extra-dry-champagne-caae1855ba804fb2.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Pinot Noir,8.79,28.09,https://products0.imgix.drizly.com/ci-bogle-pinot-noir-646dfb84b5f5bfbb.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Petite Sirah,7.99,18.71,https://products0.imgix.drizly.com/ci-bogle-petite-sirah-5c672a6116659fca.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Zapata Catena Malbec,15.68,29.99,https://products0.imgix.drizly.com/ci-zapata-catena-malbec-e3adfc9f909495f8.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bartenura Moscato,8.88,22.99,https://products2.imgix.drizly.com/ci-bartenura-moscato-495dc489a534ef34.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Jam Jar Sweet Shiraz,6.99,44.99,https://products3.imgix.drizly.com/ci-jam-jar-sweet-shiraz-7ceea726f5f7bed7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Charles Smith Kung Fu Girl Riesling,3.99,25.09,https://products0.imgix.drizly.com/ci-charles-smith-kung-fu-girl-riesling-af6f5c4ef47e8a4e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Charles Smith The Velvet Devil Merlot,6.99,27.09,https://products0.imgix.drizly.com/ci-the-velvet-devil-a074a7d55d278d01.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,90+ Cellars Pinot Grigio (Lot 42),7.49,15.99,https://products3.imgix.drizly.com/ci-90-cellars-pinot-grigio-lot-42-881f1cd92d81cb0b.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Nicolas Feuillatte Champagne Brut,24.99,58.99,https://products2.imgix.drizly.com/ci-nicolas-feuillatte-champagne-brut-cb399e452dacb545.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Martini & Rossi Rosso Sweet Vermouth,6.39,17.99,https://products3.imgix.drizly.com/ci-martini-rossi-rosso-sweet-vermouth-25204f358e882c95.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Concha y Toro Casillero Del Diablo Cabernet Sauvignon,6.99,23.99,https://products2.imgix.drizly.com/ci-casillero-del-diablo-cabernet-sauvignon-10db9c88cc9a1787.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,90+ Cellars Prosecco (Lot 50),7.98,17.99,https://products2.imgix.drizly.com/ci-90-cellars-prosecco-lot-50-fd997a5ec8304704.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dom Perignon Vintage Champagne,134.99,1800.00,https://products3.imgix.drizly.com/ci-dom-perignon-vintage-champagne-4670425b168e7621.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,14 Hands Cabernet Sauvignon,7.99,24.99,https://products2.imgix.drizly.com/ci-14-hands-cabernet-sauvignon-09a16a44ba7289c1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Perrier-Jouet Grand Brut Champagne,29.95,89.99,https://products2.imgix.drizly.com/ci-perrier-jouet-grand-brut-champagne-cd47f4486d692d9b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Woodbridge Pinot Grigio,4.78,17.99,https://products3.imgix.drizly.com/ci-woodbridge-pinot-grigio-960f1cc61565a4a8.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Miraval Provence Rosé,17.99,39.99,https://products1.imgix.drizly.com/ci-miraval-provence-rose-3e3fa1da4bdcc5bc.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dreaming Tree Cabernet Sauvignon,10.99,20.99,https://products0.imgix.drizly.com/ci-dreaming-tree-cabernet-sauvignon-27dc2bf45d852b29.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,SIMI Alexander Valley Cabernet Sauvignon,12.99,31.99,https://products1.imgix.drizly.com/ci-simi-alexander-valley-cabernet-sauvignon-cb6316876cafdd2f.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,The Pinot Project Rosé,9.87,17.99,https://products1.imgix.drizly.com/ci-the-pinot-project-rose-4f68ebc66b81cc0f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Riesling,4.99,12.09,https://products0.imgix.drizly.com/ci-barefoot-riesling-b99aedef795b0db7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Domaine Chandon Brut Classic,13.98,39.09,https://products3.imgix.drizly.com/ci-domaine-chandon-brut-classic-d9ad56d9e6328549.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Rombauer Chardonnay,19.99,62.09,https://products1.imgix.drizly.com/ci-rombauer-chardonnay-3199313d213a97fd.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Malbec,None,None,https://products1.imgix.drizly.com/ci-black-box-malbec-f8108a13b8e228f1.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Sauvignon Blanc,6.99,18.71,https://products3.imgix.drizly.com/ci-bogle-sauvignon-blanc-72db7d77b8f1e2db.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cook's Extra Dry,5.49,99.00,https://products1.imgix.drizly.com/ci-cooks-extra-dry-76a5992ba1c0a9d2.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cloudy Bay Sauvignon Blanc,22.95,42.99,https://products3.imgix.drizly.com/ci-cloudy-bay-sauvignon-blanc-d808d4a7838e06c5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Nighthawk Black Red Blend,None,None,https://products1.imgix.drizly.com/ci-bota-box-nighthawk-black-box-red-blend-f6581a07e967b663.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,19 Crimes The Banished,6.99,24.99,https://products0.imgix.drizly.com/ci-19-crimes-the-banished-ff8baa7c265b6f31.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Leese-Fitch Cabernet Sauvignon,6.99,18.99,https://products3.imgix.drizly.com/ci-leese-fitch-cabernet-sauvignon-ad17de0bf9412b09.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,90+ Cabernet Sauvignon (Lot 53),7.49,14.99,https://products3.imgix.drizly.com/ci-90-cabernet-sauvignon-lot-53-3361b4170206da4e.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Line 39 Cabernet Sauvignon,6.98,17.99,https://products0.imgix.drizly.com/ci-line-39-cabernet-sauvignon-6f21292367e0899f.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,J. Lohr Chardonnay Riverstone,8.97,30.09,https://products3.imgix.drizly.com/ci-j-lohr-riverstone-chardonnay-1e8b809801b59ea0.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Apothic Crush,7.96,21.99,https://products2.imgix.drizly.com/ci-apothic-crush-7f56f9df60107dde.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Rosé,None,None,https://products2.imgix.drizly.com/ci-black-box-rose-17e8fdc89b1800e7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Underwood Pinot Noir,9.98,24.09,https://products3.imgix.drizly.com/ci-underwood-cellars-pinot-noir-9ac74a6628e0a9e7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Louis Jadot Beaujolais Villages,7.65,25.09,https://products0.imgix.drizly.com/ci-louis-jadot-beaujolais-villages-c3a6927806e71a26.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chandon Brut Rose,13.98,38.99,https://products3.imgix.drizly.com/ci-chandon-brut-rose-39b734a6f7a3a2a9.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Pinot Grigio,6.99,19.99,https://products1.imgix.drizly.com/ci-cupcake-pinot-grigio-74a3e067b40133cd.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,La Vieille Ferme Rouge,6.98,16.09,https://products1.imgix.drizly.com/ci-la-vieille-ferme-rouge-5e972962ac6688b7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Duckhorn Cabernet Sauvignon,24.49,120.99,https://products1.imgix.drizly.com/ci-duckhorn-cabernet-sauvignon-cf06a1c9392ef170.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Hess Select North Coast Cabernet Sauvignon,12.99,85.99,https://products2.imgix.drizly.com/ci-hess-select-cabernet-sauvignon-201e8b726f04604c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,90+ Cellars Old Vine Malbec (Lot 23),7.38,17.99,https://products0.imgix.drizly.com/ci-90-cellars-old-vine-malbec-lot-23-0fbf4ef92b8f07c8.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Rosé,4.99,12.99,https://products3.imgix.drizly.com/ci-barefoot-rose-9df9d6432acc2676.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Sutter Home White Zinfandel,3.99,13.09,https://products3.imgix.drizly.com/ci-sutter-home-white-zinfandel-6c114f5ee1cb4f93.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Erath Pinot Noir,12.99,27.99,https://products1.imgix.drizly.com/ci-erath-pinot-noir-16aa54d60be49942.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,BABE Rose With Bubbles,None,None,https://products2.imgix.drizly.com/ci-babe-rose-with-bubbles-2e600db73dc34f94.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Luc Belaire Rare Rose,24.99,59.99,https://products3.imgix.drizly.com/ci-luc-belaire-rare-rose-d12d83c59f313ffa.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dolin Dry Vermouth,11.99,22.99,https://products0.imgix.drizly.com/ci-dolin-dry-vermouth-f803c574c1551553.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Segura Viudas Brut,5.00,20.09,https://products0.imgix.drizly.com/ci-segura-viudas-cava-brut-1bec50bc608c3daf.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Merlot,4.98,15.09,https://products0.imgix.drizly.com/ci-yellow-tail-merlot-b8c00153ca22bc6a.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Taylor Port,4.98,12.99,https://products1.imgix.drizly.com/ci-taylor-port-5a10ecb12fc08589.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Jaume Serra Cristalino Cava Brut,5.98,18.99,https://products0.imgix.drizly.com/ci-jaume-serra-cristalino-cava-brut-d76a969ff47d2431.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Caymus Cabernet Sauvignon,64.99,2999.00,https://products0.imgix.drizly.com/ci-caymus-vineyards-cabernet-sauvignon-0efd6b19f0aa079e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Sunset Blush,None,None,https://products1.imgix.drizly.com/ci-franzia-sunset-blush-dcbff5c1eaece9d6.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Lamberti Prosecco,9.84,17.59,https://products0.imgix.drizly.com/ci-lamberti-prosecco-6a320ee36cb403e1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Kono Sauvignon Blanc,8.98,18.99,https://products3.imgix.drizly.com/ci-kono-sauvignon-blanc-aa207fb43c74b649.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Sauvignon Blanc,4.99,15.09,https://products3.imgix.drizly.com/ci-yellow-tail-sauvignon-blanc-8191ee4d9664efcf.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Don Miguel Gascon Malbec,9.99,22.99,https://products0.imgix.drizly.com/ci-don-miguel-gascon-malbec-03613ecee7bb11b7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Woodbridge By Robert Mondavi Sauvignon Blanc,3.97,15.09,https://products1.imgix.drizly.com/ci-woodbridge-sauvignon-blanc-8e411a50cfa8df42.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Cabernet Sauvignon,4.99,12.09,https://products1.imgix.drizly.com/ci-barefoot-cabernet-sauvignon-d9e242a47abc7c64.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Martini & Rossi Extra Dry Vermouth,6.39,17.99,https://products0.imgix.drizly.com/ci-martini-rossi-extra-dry-vermouth-453a9af9387e97e7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cannonball Cabernet Sauvignon,9.99,32.09,https://products1.imgix.drizly.com/ci-cannonball-cabernet-sauvignon-4c6b6007cb33bff1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Roscato Rosso Dolce,9.48,20.99,https://products1.imgix.drizly.com/ci-roscato-rosso-dolce-sparkling-c986482ed843c27e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Sweet Red Blend,4.99,12.09,https://products3.imgix.drizly.com/ci-barefoot-sweet-red-blend-75d60851f8ce9de0.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Monkey Bay Sauvignon Blanc,5.99,18.99,https://products1.imgix.drizly.com/ci-monkey-bay-sauvignon-blanc-42d7b9e25c3d961b.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Red Moscato,2.99,11.99,https://products0.imgix.drizly.com/ci-barefoot-red-moscato-63814a4115ac9e6c.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Broadside Paso Robles Cabernet Sauvignon,11.37,22.99,https://products3.imgix.drizly.com/ci-broadside-paso-robles-cabernet-sauvignon-613e722658c624fd.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Robert Mondavi Bourbon Barrel Aged Cabernet Sauvignon,5.99,31.99,https://products3.imgix.drizly.com/ci-robert-mondavi-bourbon-barrel-cabernet-c7d04190a22a96bd.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Louis M. Martini Sonoma County Cabernet Sauvignon,11.99,29.99,https://products1.imgix.drizly.com/ci-louis-m-martini-sonoma-cabernet-sauvignon-92c23947117a1b45.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Avalon California Cabernet Sauvignon,7.98,19.99,https://products2.imgix.drizly.com/ci-avalon-california-cabernet-sauvignon-941444ff8d716c56.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Francis Coppola Diamond Collection Gold Label Chardonnay,8.99,30.09,https://products2.imgix.drizly.com/ci-francis-coppola-diamond-collection-gold-label-chardonnay-eaa175064cd0311b.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Canned Rosé,None,None,https://products1.imgix.drizly.com/ci-dark-horse-canned-rose-814dbfba4c59c069.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Los Vascos Cabernet Sauvignon,6.99,19.43,https://products3.imgix.drizly.com/ci-los-vascos-cabernet-sauvignon-8235ff797b449822.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Line 39 Pinot Noir,5.96,19.99,https://products1.imgix.drizly.com/ci-line-39-pinot-noir-90610c6092f003ad.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Carlo Rossi Sangria,2.99,9.37,https://products0.imgix.drizly.com/ci-carlo-rossi-sangria-4a67b72e31d409c2.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mirassou Pinot Noir,6.98,18.09,https://products3.imgix.drizly.com/ci-mirassou-pinot-noir-73ba04c80bb24444.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mezzacorona Pinot Grigio,6.49,19.09,https://products0.imgix.drizly.com/ci-mezzacorona-pinot-grigio-213fbe33837063e7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Merlot,4.99,12.09,https://products1.imgix.drizly.com/ci-barefoot-merlot-e715c7c8a2f5f7c5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Korbel Brut Rosé California Champagne,9.99,22.87,https://products0.imgix.drizly.com/ci-korbel-brut-rose-champagne-ab05ed45ade3172d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Ste. Michelle Cabernet Sauvignon,9.98,31.99,https://products2.imgix.drizly.com/ci-chateau-ste-michelle-cabernet-sauvignon-2e445e1444e1f0ee.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Andre Extra Dry,4.98,12.08,https://products0.imgix.drizly.com/ci-andre-extra-dry-fc405a1803dbeaf5.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,337 Cabernet Sauvignon,8.99,47.99,https://products2.imgix.drizly.com/ci-337-cabernet-sauvignon-c35eb028bf9d8ba9.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Chardonnay,5.99,17.99,https://products2.imgix.drizly.com/ci-dark-horse-chardonnay-ef821424b4c94bc9.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Josh Cellars Rosé,9.99,22.87,https://products0.imgix.drizly.com/ci-josh-cellars-rose-85a251cf30954c9b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Pinot Grigio,6.97,14.99,https://products3.imgix.drizly.com/ci-dark-horse-pinot-grigio-061ffa79e661b8b7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Trapiche Oak Cask Malbec,7.97,16.87,https://products3.imgix.drizly.com/ci-trapiche-oak-cask-malbec-bff1d2a21a22aa19.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Apothic Dark,7.00,24.99,https://products3.imgix.drizly.com/ci-apothic-dark-052f38afb7064530.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Gruet Brut,11.99,35.99,https://products1.imgix.drizly.com/ci-gruet-brut-11b138bf19237fb7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Bubbly Pink Moscato Champagne,6.99,17.09,https://products3.imgix.drizly.com/ci-barefoot-bubbly-pink-moscato-champagne-13fdfdc967fc625f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,SIMI Sonoma County Chardonnay,9.99,27.49,https://products3.imgix.drizly.com/ci-simi-sonoma-county-chardonnay-4feb0f032ab6b84c.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Decoy Sauvignon Blanc,12.87,40.09,https://products3.imgix.drizly.com/ci-decoy-sauvignon-blanc-96f723b9ee3c203b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Moet & Chandon Imperial Rose Champagne,27.99,114.99,https://products2.imgix.drizly.com/ci-moet-chandon-imperial-rose-champagne-a628cd3cc54b8c59.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Tisdale Pinot Grigio,2.99,9.58,https://products2.imgix.drizly.com/ci-tisdale-pinot-grigio-f23a50c3438780c8.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Old Vine Zinfandel,7.99,28.09,https://products2.imgix.drizly.com/ci-bogle-old-vine-zinfandel-a9377c25308ed5dd.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Hahn Pinot Noir,10.67,22.99,https://products3.imgix.drizly.com/ci-hahn-pinot-noir-9ffaa3d8e801067c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Durand Sancerre,16.99,38.99,https://products2.imgix.drizly.com/ci-durand-sancerre-2016-bdb934ed883d9c1a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Root 1 Cabernet Sauvignon,8.37,17.99,https://products0.imgix.drizly.com/ci-root-1-cabernet-sauvignon-b21d70b391a0171f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Gerard Bertrand Cotes Des Rosés Rosé,10.99,28.99,https://products3.imgix.drizly.com/ci-bertrand-cotes-des-roses-rose-c33bdf86867e0dd4.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Moet & Chandon Nectar Imperial Rosé Champagne,39.99,109.99,https://products0.imgix.drizly.com/ci-moet-chandon-nectar-imperial-rose-champagne-f0c05b62635c44f3.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Riunite Lambrusco,4.66,14.09,https://products2.imgix.drizly.com/ci-riunite-lambrusco-ed657d4acf641ccd.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Capriccio Bubbly Sangria,4.84,17.67,https://products3.imgix.drizly.com/ci-capriccio-bubbly-sangria-8abac5a1f95b4480.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Frontera Sauvignon Blanc,3.99,14.99,https://products0.imgix.drizly.com/ci-frontera-sauvignon-blanc-d060401a3d4b8bee.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Da Vinci Chianti,8.97,20.09,https://products1.imgix.drizly.com/ci-da-vinci-chianti-5e0427e62e724718.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ruffino Sparkling Rosé,9.98,22.99,https://products1.imgix.drizly.com/ci-ruffino-sparkling-rose-e8954efd32d65aa3.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franciscan Cabernet Sauvignon,9.99,39.99,https://products0.imgix.drizly.com/ci-franciscan-cabernet-sauvignon-3470b53b47b81369.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Pinot Grigio Colombard,None,None,https://products2.imgix.drizly.com/ci-franzia-pinot-grigio-colombard-4ba9d7a7f3ec58d3.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Merlot,25.99,None,https://products3.imgix.drizly.com/ci-black-box-merlot-f6ce280e0a6a4077.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,7 Deadly Zins Zinfandel,9.98,31.99,https://products1.imgix.drizly.com/ci-7-deadly-zins-zinfandel-9555af0f1c1fe046.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ruffino Chianti,6.99,22.99,https://products1.imgix.drizly.com/ci-ruffino-chianti-680a93de692e2f00.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia White Zinfandel,None,None,https://products0.imgix.drizly.com/ci-franzia-white-zinfandel-80b464043a1b1978.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Smith & Hook Cabernet Sauvignon Central Coast,13.99,29.99,https://products1.imgix.drizly.com/ci-smith-hook-cabernet-sauvignon-cent-cst-29bc73d92f496648.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Carpano Antica Formula Vermouth,31.99,35.99,https://products0.imgix.drizly.com/ci-carpano-antica-formula-vermouth-50d7e2e8a55a777a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Woodbridge Pinot Noir,4.78,16.09,https://products2.imgix.drizly.com/ci-woodbridge-pinot-noir-dd21d58be72df5de.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Moscato,4.98,14.09,https://products1.imgix.drizly.com/ci-yellow-tail-moscato-254339aac1d833f3.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Diseno Malbec,5.00,15.99,https://products0.imgix.drizly.com/ci-diseno-malbec-144902621d8ebd7e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Charles Smith Substance Cabernet Sauvignon,11.99,30.94,https://products2.imgix.drizly.com/ci-charles-smith-substance-cabernet-sauvignon-fedb7ea35dde35f1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Merlot,None,None,https://products0.imgix.drizly.com/ci-bota-box-merlot-c78eacbc333d6f82.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bonterra Organic Cabernet Sauvignon,9.98,28.99,https://products3.imgix.drizly.com/ci-bonterra-organic-cabernet-sauvignon-1d8a3b743732cf83.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Lunetta Prosecco,8.99,18.69,https://products2.imgix.drizly.com/ci-lunetta-prosecco-519d15968fb4a84a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Veuve Clicquot Rose,49.98,128.99,https://products2.imgix.drizly.com/ci-veuve-clicquot-rose-4e46639e1a552c9e.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,La Crema Monterey Chardonnay,9.99,39.99,https://products3.imgix.drizly.com/ci-la-crema-monterey-chardonnay-8d845e6802460c00.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dolin Vermouth Rouge,10.99,29.99,https://products2.imgix.drizly.com/ci-dolin-vermouth-rouge-ddbb28fd0922cce0.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Sutter Home Chardonnay,2.50,10.99,https://products1.imgix.drizly.com/ci-sutter-home-chardonnay-04bae233887b1bc8.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Tisdale Cabernet Sauvginon,2.99,9.99,https://products3.imgix.drizly.com/ci-tisdale-cabernet-sauvginon-4d159b316155d03d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,For A Song Cabernet Sauvignon,9.99,19.99,https://products1.imgix.drizly.com/ci-for-a-song-cabernet-sauvignon-cbad4c235697b5ee.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Hess Select Monterey Chardonnay,8.49,27.99,https://products3.imgix.drizly.com/ci-hess-select-monterey-chardonnay-01e58b187b9496dd.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ruffino Riserva Ducale Chianti Classico,14.99,41.99,https://products3.imgix.drizly.com/ci-ruffino-ducale-chianti-cls-reserve-tan-dcae7cd21fbc203a.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Indaba Sauvignon Blanc,6.67,13.99,https://products2.imgix.drizly.com/ci-indaba-sauvignon-blanc-15ae83ac67ac6ac4.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Prisoner Saldo Zinfandel,22.99,57.09,https://products0.imgix.drizly.com/ci-prisoner-saldo-zinfandel-78d43704063879e5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,90+ Cellars Pinot Noir,4.39,25.00,https://products3.imgix.drizly.com/ci-90-cellars-pinot-noir-757137fa5c246600.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Martini & Rossi Asti Spumante,8.99,199.99,https://products0.imgix.drizly.com/ci-martini-rossi-asti-spumante-423feae16caa3d8b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,19 Crimes Shiraz Durif,7.49,23.09,https://products3.imgix.drizly.com/ci-19-crimes-shiraz-durif-e05b4a7f67184545.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mumm Napa Brut Prestige,15.99,49.99,https://products2.imgix.drizly.com/ci-mumm-napa-brut-prestige-a3b747cbad07dab4.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bread & Butter Cabernet,10.99,26.09,https://products2.imgix.drizly.com/ci-bread-butter-cabernet-5a79fd73546e3136.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mionetto IL Prosecco,8.49,23.09,https://products1.imgix.drizly.com/ci-mionetto-il-prosecco-152bfe042711ae16.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Laurent-Perrier Brut Champagne,35.99,99.99,https://products2.imgix.drizly.com/ci-laurent-perrier-brut-champagne-a417e94ecfeefaf9.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Gruet Brut Rosé,3.99,28.00,https://products2.imgix.drizly.com/ci-gruet-brut-rose-2eda10030a266a76.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,White Girl Rosé,9.99,25.94,https://products2.imgix.drizly.com/ci-white-girl-rose-64d1e1666e8b9439.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Sutter Home Pink Moscato,3.99,10.99,https://products0.imgix.drizly.com/ci-sutter-home-pink-moscato-0260d63c5f0ad09e.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Josh Cellars Merlot,9.99,24.99,https://products2.imgix.drizly.com/ci-josh-cellars-merlot-3018f2f5b68e9827.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Montaud Cotes de Provence Rosé,8.51,19.99,https://products3.imgix.drizly.com/ci-chateau-montaud-cotes-de-provence-rose-a326b2933544c00a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Block Nine Pinot Noir,9.66,19.99,https://products0.imgix.drizly.com/ci-block-nine-pinot-noir-360f4f19f6f2676d.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Angeline Pinot Noir,8.99,20.94,https://products2.imgix.drizly.com/ci-angeline-pinot-noir-5fa2acc279f44d06.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,19 Crimes The Warden,11.99,35.09,https://products2.imgix.drizly.com/ci-19-crimes-the-warden-b11ecbfd45c389ff.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dibon Cava Brut Reserve,9.97,15.99,https://products0.imgix.drizly.com/ci-dibon-cava-brut-reserve-6055a57710bbb3f5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Decoy Red Blend,16.99,30.50,https://products2.imgix.drizly.com/ci-duckhorn-decoy-red-blend-40161d5093ec76a7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Castello d'Albola Chianti Classico,9.99,23.95,https://products0.imgix.drizly.com/ci-castello-dalbola-chianti-classico-e834e251aed72bc1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Pascal Jolivet Sancerre,11.99,45.99,https://products1.imgix.drizly.com/ci-pascal-jolivet-sancerre-058628f2a2e9cc3d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Stags' Leap Napa Valley Cabernet Sauvignon,34.99,85.99,https://products0.imgix.drizly.com/ci-stags-leap-winery-cabernet-sauvignon-napa-valley-5591a1f6bc37f3a0.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Marques De Caceres Crianza Rioja,9.99,20.99,https://products0.imgix.drizly.com/ci-marques-de-caceres-rioja-bebfb85b12a66099.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,19 Crimes The Uprising,7.95,23.09,https://products2.imgix.drizly.com/ci-19-crimes-the-uprising-0248678c27df370a.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,19 Crimes The Punishment Pinot Noir,7.97,19.99,https://products1.imgix.drizly.com/ci-19-crimes-the-punishment-pinot-noir-b241cc12e62973d3.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Clean Slate Riesling,8.97,17.07,https://products0.imgix.drizly.com/ci-clean-slate-riesling-f3bf6f37860933c8.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Les Dauphins Cotes Du Rhone,7.99,15.99,https://products3.imgix.drizly.com/ci-les-dauphins-cotes-du-rhone-69b1de61d4123819.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Blu Prosecco,7.99,17.99,https://products0.imgix.drizly.com/ci-riondo-prosecco-blu-1df1e1ab82500bc5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Underwood Rosé,9.99,24.09,https://products1.imgix.drizly.com/ci-underwood-rose-b457deb810493111.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Line 39 Sauvignon Blanc,6.98,15.99,https://products3.imgix.drizly.com/ci-line-39-sauvignon-blanc-e3ab0aebe04f00e9.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Wycliff Brut California Champagne,3.98,9.99,https://products1.imgix.drizly.com/ci-wycliff-brut-california-champagne-210633e0397fa167.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,J Vineyards Pinot Gris,11.97,28.99,https://products2.imgix.drizly.com/ci-j-vineyard-pinot-gris-40b1e11367811691.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Elouan Pinot Noir,14.49,39.99,https://products3.imgix.drizly.com/ci-elouan-pinot-noir-4766625cd664f472.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,The Naked Grape Pinot Grigio,4.98,11.24,https://products1.imgix.drizly.com/ci-the-naked-grape-pinot-grigio-1a1e4709209302c5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Charles De Fere Blanc de Blancs Reserve Brut,9.99,19.99,https://products3.imgix.drizly.com/ci-charles-de-fere-blanc-de-blancs-reserve-brut-049aa55a81b130e3.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ca' Furlan Prosecco,8.61,15.99,https://products0.imgix.drizly.com/ci-ca-furlan-prosecco-97ee1bcb295ddb4d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Faust Cabernet Sauvignon,17.99,84.99,https://products3.imgix.drizly.com/ci-faust-cabernet-sauvignon-fe65d49ee08e373c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Layer Cake Cabernet Sauvignon,9.99,32.09,https://products3.imgix.drizly.com/ci-layer-cake-cabernet-sauvignon-aeaf5c2784c4aa52.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,19 Crimes Hard Chard,7.97,23.09,https://products3.imgix.drizly.com/ci-19-crimes-hard-chard-bc283d5aab722e56.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Georges Duboeuf Beaujolais Nouveau,3.99,22.99,https://products3.imgix.drizly.com/ci-georges-duboeuf-beaujolais-nouveau-79b21ae829b28534.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Moet & Chandon Ice Imperial,39.99,99.99,https://products3.imgix.drizly.com/ci-moet-chandon-ice-imperial-d7101e53d137d818.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Francis Coppola Diamond Collection Silver Label Pinot Noir,12.98,34.99,https://products1.imgix.drizly.com/ci-francis-coppola-diamond-collection-silver-label-pinot-noir-5aa45a174fb699b2.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Francis Coppola Diamond Collection Blue Label Merlot,9.99,33.09,https://products0.imgix.drizly.com/ci-francis-coppola-diamond-collection-blue-label-merlot-3bc1df13b44b343d.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,La Crema Monterey Pinot Noir,10.99,42.99,https://products3.imgix.drizly.com/ci-la-crema-pinot-noir-monterey-0fef16de8f52797b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Beringer Cabernet Sauvignon,3.97,14.09,https://products3.imgix.drizly.com/ci-beringer-cabernet-sauvignon-4bf7fe4654fcdbd0.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Moet & Chandon Nectar Imperial Champagne,39.99,142.99,https://products2.imgix.drizly.com/ci-moet-chandon-nectar-imperial-champagne-eebca1a64fdcff0e.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Rosé,6.99,18.99,https://products0.imgix.drizly.com/ci-cupcake-rose-661db3525c56b64d.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dr Loosen "L" Riesling,9.68,27.99,https://products0.imgix.drizly.com/ci-dr-loosen-l-riesling-f350df0948bead0e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Merlot,5.99,16.99,https://products3.imgix.drizly.com/ci-dark-horse-merlot-643e62d1f4b585ca.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Layer Cake Pinot Noir,9.99,32.09,https://products1.imgix.drizly.com/ci-layer-cake-pinot-noir-5b10d81be02eb2d6.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Marques De Riscal Reserva Rioja,6.49,29.99,https://products0.imgix.drizly.com/ci-marques-de-riscal-reserva-rioja-ad2d9bf96fa12a62.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,E. Guigal Cotes Du Rhone Rouge,11.99,27.99,https://products2.imgix.drizly.com/ci-e-guigal-cotes-du-rhone-rouge-b6d10e6a7c4220ed.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Love Noir Pinot Noir,8.99,19.99,https://products1.imgix.drizly.com/ci-love-noir-pinot-noir-913e4813d21b97a0.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mumm Napa Brut Rose,16.99,49.99,https://products1.imgix.drizly.com/ci-mumm-napa-brut-rose-409da57e8bc25b4f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Cabernet Sauvignon,None,None,https://products3.imgix.drizly.com/ci-franzia-cabernet-sauvignon-0180245a2e8b7aa9.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Jadot Pouilly Fuisse,11.99,41.99,https://products3.imgix.drizly.com/ci-jadot-pouilly-fuisse-17d28a6b69dec149.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Apothic White,7.96,35.99,https://products2.imgix.drizly.com/ci-apothic-white-ba2549f78df19516.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Vrac Vin de Pays de Mediterranee Rosé,9.99,14.99,https://products0.imgix.drizly.com/ci-vrac-vin-de-pays-de-mediterranee-rose-f4114d01abf47196.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Gazela Vinho Verde,3.97,14.09,https://products3.imgix.drizly.com/ci-gazela-vinho-verde-3ec6426502993943.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Merlot,None,None,https://products0.imgix.drizly.com/ci-franzia-merlot-075ffaad24c318bf.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Recougne Bordeaux Superieur,10.98,21.99,https://products2.imgix.drizly.com/ci-chateau-recougne-bordeaux-superieur-f13d515b323268d2.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chloe Prosecco,10.99,19.99,https://products2.imgix.drizly.com/ci-chloe-prosecco-375d5006f12ec6da.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Lynch Cotes Du Rhone Rouge,9.87,23.99,https://products2.imgix.drizly.com/ci-lynch-cotes-du-rhone-rouge-2013-5c944f3b494d8737.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Santa Rita 120 Sauvignon Blanc,2.99,16.09,https://products3.imgix.drizly.com/ci-santa-rita-120-sauvignon-blanc-7e0164d83396bc93.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Decoy Chardonnay,12.87,49.99,https://products1.imgix.drizly.com/ci-decoy-chardonnay-a768759a5aa0239f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Perlita Malbec Syrah,8.99,18.00,https://products2.imgix.drizly.com/ci-perlita-malbec-syrah-b0ea67ea695032df.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Nighthawk Black Cabernet Sauvignon,None,None,https://products0.imgix.drizly.com/ci-bota-box-nighthawk-black-d2fc18c9449325ca.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Crisp White,None,None,https://products3.imgix.drizly.com/ci-franzia-crisp-white-8b8d5846158fa1e3.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Llama Malbec,11.49,24.99,https://products2.imgix.drizly.com/ci-llama-malbec-dbfc05cd897340c7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Shiraz,None,None,https://products2.imgix.drizly.com/ci-bota-box-shiraz-495c5e77fe476903.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,G.H. Mumm Grand Cordon Champagne,16.99,85.99,https://products3.imgix.drizly.com/ci-gh-mumm-grand-cordon-champagne-be62c8bca7bfd125.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Bubbly Brut Cuvée,5.49,16.99,https://products3.imgix.drizly.com/ci-barefoot-bubbly-brut-cuvee-49bc0e43b314a683.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Souverain Cabernet Sauvignon,7.99,25.99,https://products0.imgix.drizly.com/ci-souverain-cabernet-sauvignon-5712feb1ff0bf9a5.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Flowers Sonoma Coast Pinot Noir,35.99,92.99,https://products2.imgix.drizly.com/ci-flowers-sonoma-coast-pinot-noir-e970aabb05c0375d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Vigneti Del Sole Pinot Grigio,7.99,15.15,https://products0.imgix.drizly.com/ci-vigneti-del-sole-pinot-grigio-11b76b5cf264fc0c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Montinore Estate Pinot Noir,16.95,89.99,https://products0.imgix.drizly.com/ci-montinore-estate-pinot-noir-0385bd3ad3de4373.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,14 Hands Hot to Trot Red Blend,6.49,16.99,https://products2.imgix.drizly.com/ci-14-hands-hot-to-trot-red-blend-c681e6007c49bec4.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,House Wine Cabernet Sauvignon,8.99,13.99,https://products1.imgix.drizly.com/ci-house-wine-cabernet-sauvignon-b77a09e6fb5ae65d.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Robert Mondavi Napa Cabernet Sauvignon,9.99,45.99,https://products0.imgix.drizly.com/ci-robert-modavi-napa-cabernet-sauvignon-acd577a94107cacd.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Canned Pinot Grigio,None,None,https://products3.imgix.drizly.com/ci-dark-horse-canned-pinot-grigio-062c30aeac526b9b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Pinot Noir,4.98,14.99,https://products1.imgix.drizly.com/ci-yellow-tail-pinot-noir-9cc5d9573932c4c7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Rodney Strong Cabernet Sauvignon Sonoma County,13.48,39.99,https://products3.imgix.drizly.com/ci-rodney-strong-sonoma-cabernet-sauvignon-c877542fe97a2720.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Meiomi Chardonnay,4.99,35.99,https://products3.imgix.drizly.com/ci-meiomi-chardonnay-aef1322783729b5c.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Wente Riva Ranch Chardonnay,12.98,31.89,https://products2.imgix.drizly.com/ci-wente-riva-ranch-chardonnay-2d233ea9c57607ed.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Duckhorn Sauvignon Blanc,18.99,50.09,https://products2.imgix.drizly.com/ci-duckhorn-sauvignon-blanc-69eb9ee835c1fb56.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Kendall Jackson Vintner's Reserve Cabernet Sauvignon,13.99,39.99,https://products2.imgix.drizly.com/ci-kendall-jackson-cabernet-sauvignon-vintners-reserve-05b5e1a5b863b3f6.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ottos Dream Sauvignon Blanc,11.99,19.35,https://products3.imgix.drizly.com/ci-ottos-dream-sauvignon-blanc-09b2463e547e0592.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Refresh Rosé Spritzer,5.99,10.99,https://products3.imgix.drizly.com/ci-barefoot-refresh-rose-spritzer-2afcbe992772ecd8.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Zonin Prosecco,8.99,31.99,https://products1.imgix.drizly.com/ci-zonin-prosecco-2cc82ae2e909c7f8.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mi Mi en Provence Grande Réserve Rosé,11.99,24.99,https://products3.imgix.drizly.com/ci-mi-mi-en-provence-grande-reserve-rose-8dcb407dc355d821.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Robert Mondavi Private Selection Pinot Noir,6.75,24.99,https://products3.imgix.drizly.com/ci-robert-mondavi-private-selection-pinot-noir-1da49bce08166e65.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Piper-Heidsieck Brut Champagne,15.99,84.99,https://products0.imgix.drizly.com/ci-piper-heidsieck-brut-champagne-f634c45ffb309181.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Sutter Home Moscato,1.99,79.99,https://products0.imgix.drizly.com/ci-sutter-home-moscato-d9d23df087c5e94d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Moscato D’Asti,7.99,18.99,https://products1.imgix.drizly.com/ci-cupcake-moscato-d-asti-92fd620cf8ec0dcf.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Caymus Conundrum Red,14.99,39.99,https://products3.imgix.drizly.com/ci-caymus-conundrum-red-f433b4cffa9215ac.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Forstreiter Grooner Gruner Veltliner,9.99,21.99,https://products3.imgix.drizly.com/ci-forstreiter-grooner-gruner-veltliner-1b758f4799cbc138.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Sutter Home Pinot Grigio,1.99,10.49,https://products1.imgix.drizly.com/ci-sutter-home-pinot-grigio-483f853e93ed5fe7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Woodbridge White Zinfandel,3.99,16.09,https://products2.imgix.drizly.com/ci-woodbridge-white-zinfandel-fe2db3cfc99d4336.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Wolffer Estate Rosé Table Wine,12.99,29.99,https://products3.imgix.drizly.com/ci-wolffer-estate-rose-table-wine-3505c113cf496f7a.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Novecento Malbec,6.49,11.99,https://products3.imgix.drizly.com/ci-novecento-malbec-202a0b6b7dad0b55.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Prophecy French Rosé,8.99,18.00,https://products1.imgix.drizly.com/ci-prophecy-rose-715093efbf19757b.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Honoro Vera Garnacha,6.56,17.94,https://products0.imgix.drizly.com/ci-honoro-vera-garnacha-e53621da7dbc592a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Jordan Cabernet Sauvignon,46.99,199.99,https://products3.imgix.drizly.com/ci-jordan-cabernet-sauvignon-b95af1757c1a712c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Fruity Red Sangria,None,None,https://products1.imgix.drizly.com/ci-franzia-fruity-red-sangria-815e9891d18b8dec.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Villa Jolanda Prosecco,7.99,19.99,https://products1.imgix.drizly.com/ci-villa-jolanda-prosecco-5694787649f2c8fa.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Hob Nob Pinot Noir,6.99,17.07,https://products2.imgix.drizly.com/ci-hob-nob-pinot-noir-4af884e3df3f2bc4.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,The Federalist Lodi Cabernet Sauvignon,12.99,29.99,https://products1.imgix.drizly.com/ci-the-federalist-lodi-cabernet-sauvignon-90c8973877377399.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Lillet Blanc,9.99,35.99,https://products0.imgix.drizly.com/ci-lillet-blanc-4c2eac666af9ebf1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Pink Moscato,4.56,14.99,https://products0.imgix.drizly.com/ci-yellow-tail-pink-moscato-d31a80a647e9be7f.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Santa Marina Pinot Grigio,5.99,12.99,https://products0.imgix.drizly.com/ci-santa-marina-pinot-grigio-2c7408b2738937fb.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Concha y Toro Frontera Cabernet Sauvignon,4.29,13.09,https://products1.imgix.drizly.com/ci-frontera-cabernet-sauvignon-5214e776fdc5136a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Bubbly Extra Dry California Champagne,5.49,15.99,https://products3.imgix.drizly.com/ci-barefoot-bubbly-extra-dry-california-champagne-920dc5899374bf02.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Yellow Tail Sangria,4.56,15.09,https://products0.imgix.drizly.com/ci-yellow-tail-sangria-43129feee4c66214.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Louis Roederer Cristal Brut,179.99,599.99,https://products3.imgix.drizly.com/ci-louis-roederer-cristal-brut-a3d55ad9cac62b4e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Pine Ridge Chenin Blanc Viognier,9.98,24.09,https://products0.imgix.drizly.com/ci-pine-ridge-chenin-blanc-viognier-a6533c86f1c7363a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Refresh Crisp White Spritzer,3.00,14.09,https://products1.imgix.drizly.com/ci-barefoot-refresh-crisp-white-spritzer-a9dcbae13b0d1c74.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Sangria,4.96,12.09,https://products0.imgix.drizly.com/ci-barefoot-sangria-a9b33564049c7ce8.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Big Red Blend,5.99,15.99,https://products0.imgix.drizly.com/ci-dark-horse-big-red-blend-631412736f42ca07.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Campo Viejo Rioja,7.99,94.99,https://products1.imgix.drizly.com/ci-campo-viejo-rioja-13b735e77a1bc7d7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Toasted Head Chardonnay,6.99,23.09,https://products2.imgix.drizly.com/ci-toasted-head-chardonnay-540bc1621634bda8.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Rascal Pinot Noir,8.29,21.99,https://products2.imgix.drizly.com/ci-rascal-pinot-noir-7b4472068c639361.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Roederer Estate Brut,17.97,52.99,https://products1.imgix.drizly.com/ci-roederer-estate-brut-7d6da25d83d93f33.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Ste. Michelle Sauvignon Blanc,7.88,19.99,https://products0.imgix.drizly.com/ci-chateau-ste-michelle-sauvignon-blanc-fd16d43e58bd2b20.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Woodbridge By Robert Mondavi Merlot,4.78,35.99,https://products2.imgix.drizly.com/ci-woodbridge-merlot-36deea86b32b692d.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Carlo Rossi Moscato Sangria,2.99,15.99,https://products0.imgix.drizly.com/ci-carlo-rossi-moscato-sangria-3b70a8cdd3bdf871.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Decoy Merlot,16.99,48.09,https://products2.imgix.drizly.com/ci-duckhorn-decoy-merlot-21c1dcc03170d18f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Poema Sparkling Cava,6.99,19.09,https://products3.imgix.drizly.com/ci-poema-sparkling-cava-4610e63fe040c881.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Red Velvet,6.60,17.99,https://products1.imgix.drizly.com/ci-cupcake-red-velvet-05d0b7296b9c56bc.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bonterra Organic Chardonnay,2.99,26.09,https://products1.imgix.drizly.com/ci-bonterra-organic-chardonnay-64d527d687fd0679.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Gouguenheim Malbec,8.95,21.09,https://products3.imgix.drizly.com/ci-gouguenheim-malbec-0f5533a43ccd34b2.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Frontera Malbec,4.59,18.99,https://products0.imgix.drizly.com/ci-frontera-malbec-b2f92ce992226a44.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Monte Antico Supremus Toscana,4.97,24.99,https://products0.imgix.drizly.com/ci-monte-antico-toscana-c91da4973444f36e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Cabernet Sauvignon,5.99,19.99,https://products0.imgix.drizly.com/ci-cupcake-cabernet-sauvignon-ccdfeec2cd351060.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Antigal Uno Malbec,9.99,24.99,https://products0.imgix.drizly.com/ci-antigal-uno-malbec-21a29ed32eb4972c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot White Zinfandel,1.99,12.09,https://products3.imgix.drizly.com/ci-barefoot-white-zinfandel-354e8087ae0ae64c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,7 Moons Red Blend,6.99,18.99,https://products2.imgix.drizly.com/ci-7-moons-red-blend-413625e702095052.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Lindeman's Bin 65 Chardonnay,3.98,15.09,https://products0.imgix.drizly.com/ci-lindemans-bin-65-chardonnay-086d2b1426a1dc1c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,La Petite Perriere Sauvignon Blanc,8.19,16.99,https://products1.imgix.drizly.com/ci-la-petite-perriere-sauvignon-blanc-98c5101d4ec0886a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Charles & Charles Rosé,8.99,18.99,https://products1.imgix.drizly.com/ci-charles-charles-rose-d927d923ad0ab007.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Prophecy California Pinot Noir,7.99,20.09,https://products1.imgix.drizly.com/ci-prophecy-california-pinot-noir-9b3d6e607ec787b3.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bella Sera Pinot Grigio,5.99,14.99,https://products3.imgix.drizly.com/ci-bella-sera-pinot-grigio-55e177caa83a744d.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Luc Belaire Rare Luxe,24.99,59.99,https://products3.imgix.drizly.com/ci-luc-belaire-rare-luxe-c211206f4650c552.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Vendange Chardonnay,3.00,9.99,https://products3.imgix.drizly.com/ci-vendange-chardonnay-a8d4a59c89ec5073.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Vineyards Phantom Red Blend,14.99,40.09,https://products3.imgix.drizly.com/ci-bogle-vineyards-phantom-8a8e3a31a16ec7fc.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,House Wine Sauvignon Blanc,None,None,https://products3.imgix.drizly.com/ci-house-wine-sauvignon-blanc-box-ee9dd7e9b89ff0de.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Souverain Sauvignon Blanc,6.98,25.99,https://products1.imgix.drizly.com/ci-souverain-sauvignon-blanc-fc3dbab46d5f9762.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,The Dreaming Tree Pinot Noir,10.99,22.49,https://products1.imgix.drizly.com/ci-the-dreaming-tree-pinot-noir-b80f7e74b645864a.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Trivento Malbec,6.99,17.99,https://products1.imgix.drizly.com/ci-trivento-malbec-a062993fd92e7ee5.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Underwood Cellars Rose Bubbles,None,None,https://products1.imgix.drizly.com/ci-underwood-cellars-rose-bubbles-292247ce4afcbf30.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Taittinger Brut La Francaise,34.99,114.99,https://products0.imgix.drizly.com/ci-taittinger-brut-la-francaise-808bc26848c0b85a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Noble Vines 667 Pinot Noir,8.99,28.99,https://products1.imgix.drizly.com/ci-noble-vines-667-pinot-noir-7e4c29d037e4296c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Kim Crawford Rosé,9.99,29.99,https://products0.imgix.drizly.com/ci-kim-crawford-pansy-rose-bbab9c8d742de273.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Gabbiano Chianti,5.99,17.09,https://products1.imgix.drizly.com/ci-gabbiano-chianti-cf5785770a47d7ed.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Refresh Summer Red Spritzer,4.99,12.37,https://products1.imgix.drizly.com/ci-barefoot-refresh-summer-red-spritzer-09d1d860812a3096.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Andre Spumante Champagne,4.98,12.08,https://products0.imgix.drizly.com/ci-andre-spumante-champagne-da76e50e2d4caca8.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Andre Peach Moscato,4.98,12.08,https://products3.imgix.drizly.com/ci-andre-peach-moscato-champagne-90f6b0397ceb9a30.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Freixenet Cordon Negro Extra Dry,7.98,20.07,https://products2.imgix.drizly.com/ci-freixenet-cordon-negro-extra-dry-0596d8d4cac542f7.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Josh Cellars North Coast Family Reserve Cabernet Sauvignon,12.99,42.99,https://products1.imgix.drizly.com/ci-josh-cellars-north-coast-family-reserve-cabernet-sauvignon-b312cbccad8de470.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Rosé All Day,9.99,18.36,https://products1.imgix.drizly.com/ci-rose-all-day-61f4ffa7729f030f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cupcake Pinot Noir,6.99,19.99,https://products0.imgix.drizly.com/ci-cupcake-pinot-noir-7ba63f48b570c5f0.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Santa Rita 120 Cabernet Sauvignon,2.99,16.09,https://products3.imgix.drizly.com/ci-santa-rita-120-cabernet-sauvignon-8e7c5a2c8dcace1b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Martin Codax Albarino,10.99,24.95,https://products2.imgix.drizly.com/ci-martin-codax-albarino-177dceb1309bd754.tif?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Copper Moon Cabernet Sauvignon,10.59,12.09,https://products3.imgix.drizly.com/ci-copper-moon-cabernet-sauvignon-ddb0638403eeb405.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,The Dreaming Tree Crush,10.99,22.49,https://products1.imgix.drizly.com/ci-the-dreaming-tree-crush-a7d21fe7f923ebce.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Balland Sancerre,19.99,29.99,https://products0.imgix.drizly.com/ci-balland-sancerre-a0f73126ea528b6f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Perrin Réserve Cotes du Rhone Rouge,9.29,19.99,https://products3.imgix.drizly.com/ci-perrin-reserve-cotes-du-rhone-rouge-24af8e92f6eab185.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Orin Swift Abstract,19.99,82.28,https://products3.imgix.drizly.com/ci-orin-swift-abstract-efacc9f72600c57c.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Prophecy Pinot Grigio,8.98,24.99,https://products3.imgix.drizly.com/ci-prophecy-pinot-grigio-8671ca4bdcf49160.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Silver Oak Alexander Valley Cabernet Sauvignon,29.99,230.05,https://products2.imgix.drizly.com/ci-silver-oak-alexander-valley-cabernet-sauvignon-2012-720cd9204bc846e3.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Aix Provence Rosé,14.99,23.99,https://products3.imgix.drizly.com/ci-aix-provence-rose-09b44d52bcbc2113.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Charles Smith Eve Chardonnay,7.99,27.09,https://products2.imgix.drizly.com/ci-charles-smith-eve-chardonnay-b639e16651f4b26b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Sutter Home Cabernet Sauvignon,4.47,24.95,https://products2.imgix.drizly.com/ci-sutter-home-cabernet-sauvignon-ab87fcd2cdb93a75.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bonterra Organic Sauvignon Blanc,9.98,26.09,https://products3.imgix.drizly.com/ci-bonterra-organic-sauvignon-blanc-706be1253be70d35.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Justin Sauvignon Blanc,10.98,27.99,https://products0.imgix.drizly.com/ci-justin-sauvignon-blanc-6e2f55f0aeddb94f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Ponga Sauvignon Blanc,9.99,19.99,https://products2.imgix.drizly.com/ci-ponga-sauvignon-blanc-29f0537a81e304d2.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Black Box Red Blend,None,None,https://products1.imgix.drizly.com/ci-black-box-red-elegance-ec256a3c40dd2f23.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Meiomi Rosé,12.99,41.99,https://products2.imgix.drizly.com/ci-meiomi-rose-ba9c8e04cdbeb346.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Zaccagnini Pinot Grigio Colline Pescaresi,11.98,24.99,https://products0.imgix.drizly.com/ci-zaccagnini-pinot-grigio-colline-pescaresi-37a119dfba4bc5a2.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Broadbent Vinho Verde,7.20,18.99,https://products3.imgix.drizly.com/ci-broadbent-vinho-verde-629cf9b74763f175.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Riondo Prosecco Spago Nero,9.99,31.99,https://products3.imgix.drizly.com/ci-riondo-prosecco-spago-nero-5d9e684949c27418.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Underwood Sparkling Wine,None,None,https://products3.imgix.drizly.com/ci-underwood-sparkling-wine-7fc94ff6d6ed21ba.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Brancott Estate Sauvignon Blanc,7.99,20.07,https://products3.imgix.drizly.com/ci-brancott-estate-sauvignon-blanc-2ba6ff38b268aa9b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Altos Hormigas Malbec,9.99,23.99,https://products0.imgix.drizly.com/ci-altos-hormigas-malbec-b8e5037a0b2bba55.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Underwood Pinot Gris,9.98,21.99,https://products0.imgix.drizly.com/ci-underwood-pinot-gris-82a86adfbe99a8d6.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Alamos Cabernet Sauvignon,7.99,18.09,https://products2.imgix.drizly.com/ci-alamos-cabernet-sauvignon-e69fc032643adfb5.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Tokoeka Estate Sauvignon Blanc,9.99,20.99,https://products3.imgix.drizly.com/ci-tokoeka-estate-sauvignon-blanc-10355f873ed852f8.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cigar Box Reserve Hand Harvested Malbec,4.99,22.99,https://products3.imgix.drizly.com/ci-cigar-box-reserve-hand-harvested-malbec-2abba87d53a36d8b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Refresh Moscato Spritzer,None,None,https://products2.imgix.drizly.com/ci-barefoot-refresh-moscato-spritzer-68e3015f6d281059.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Leese-Fitch Sauvignon Blanc,7.99,18.99,https://products1.imgix.drizly.com/ci-leese-fitch-sauvignon-blanc-f159e569bb471eee.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,OZV Old Vine Zinfandel,8.99,19.99,https://products1.imgix.drizly.com/ci-ozv-old-vine-zinfandel-fe7fda63824255bf.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,CK Mondavi Cabernet Sauvignon,3.99,15.99,https://products0.imgix.drizly.com/ci-ck-mondavi-cabernet-sauvignon-b889a9e902593cf1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Buena Vista Napa Valley Cabernet Sauvignon,29.99,61.99,https://products3.imgix.drizly.com/ci-chateau-buena-vista-napa-valley-cabernet-sauvignon-9d5754e02a4e52c0.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Banshee Pinot Noir,18.98,31.87,https://products2.imgix.drizly.com/ci-banshee-pinot-noir-ae9ad074fdb27f98.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,LaLuca Prosecco,9.98,20.99,https://products1.imgix.drizly.com/ci-laluca-prosecco-a4c3d390162cbce6.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Oberon Napa County Cabernet Sauvignon,14.99,35.00,https://products1.imgix.drizly.com/ci-oberon-napa-county-cabernet-sauvignon-1f2c1bc424ecc5d7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Josh Cellars Legacy,9.96,22.08,https://products3.imgix.drizly.com/ci-josh-cellars-legacy-7ae6dc8ca5d85105.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Grayson Cellars Cabernet Sauvigon,8.20,17.99,https://products0.imgix.drizly.com/ci-grayson-cellars-cabernet-sauvigon-00b408bfbce07c9a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Menage A Trois Silk Red Blend,7.99,24.99,https://products2.imgix.drizly.com/ci-menage-a-trois-silk-red-blend-733d6a3c9cc4c685.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Villa Maria Sauvignon Blanc,9.98,22.99,https://products2.imgix.drizly.com/ci-villa-maria-sauvignon-blanc-36456b84b06d08be.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Baron Herzog Jeunesse Cabernet Sauvignon,4.99,19.99,https://products2.imgix.drizly.com/ci-baron-herzog-jeunesse-cabernet-sauvignon-e0f6e38d221006a7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cristalino Cava Brut Rosé,5.99,18.99,https://products2.imgix.drizly.com/ci-cristalino-cava-brut-rose-bf5d703bc94c5d92.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Beringer Knights Valley Cabernet Sauvignon,17.99,221.94,https://products3.imgix.drizly.com/ci-beringer-knights-valley-cabernet-sauvignon-acd4503b86fc7272.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Charles Smith Boom Boom! Syrah,3.29,30.09,https://products3.imgix.drizly.com/ci-charles-smith-boom-boom-syrah-a609deac9ed5b79e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bota Box Old Vine Zinfandel,None,None,https://products0.imgix.drizly.com/ci-bota-box-zinfandel-c4cc6b400191725b.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Concha Y Toro Frontera Cabernet/Merlot,3.97,9.99,https://products1.imgix.drizly.com/ci-frontera-cabernetmerlot-864f93eea2e82a94.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Andre Brut Rose,4.98,12.08,https://products3.imgix.drizly.com/ci-andre-brut-rose-2c2b14c5c08cd0ac.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Villa Antinori Toscana,12.99,29.99,https://products0.imgix.drizly.com/ci-villa-antinori-toscana-4de11c8ad3527338.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bodacious Smooth Red,10.81,13.09,https://products0.imgix.drizly.com/ci-bodacious-smooth-red-f41e02c2d10a925d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Barefoot Bubbly Brut Rose,7.89,16.99,https://products3.imgix.drizly.com/ci-barefoot-bubbly-brut-rose-dca2510334aed723.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Liberty Creek Cabernet Sauvignon,None,None,https://products1.imgix.drizly.com/ci-liberty-creek-cabernet-sauvignon-b0a4d62e60e17639.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Layer Cake Shiraz,9.99,32.09,https://products0.imgix.drizly.com/ci-layer-cake-shiraz-212b3f8a7f22339e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Carpano Punt E Mes,15.99,33.99,https://products3.imgix.drizly.com/ci-carpano-punt-e-mes-vermouth-95eb758047cec435.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Joel Gott Unoaked Chardonnay,12.99,2099.00,https://products3.imgix.drizly.com/ci-joel-gott-unoaked-chardonnay-74cd228d3bb1d8ba.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Baron Herzog Cabernet Sauvignon,8.59,22.94,https://products1.imgix.drizly.com/ci-baron-herzog-cabernet-sauvignon-dd820e43cc8fd113.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Santa Margherita Prosecco Superiore DOCG,8.99,34.99,https://products1.imgix.drizly.com/ci-santa-margherita-prosecco-216eb5e506597297.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Paraduxx Proprietary Napa Valley Red Wine,28.99,80.09,https://products3.imgix.drizly.com/ci-paraduxx-z-blend-napa-valley-red-3f3150aed1268014.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Moscato,None,None,https://products0.imgix.drizly.com/ci-franzia-moscato-296fae8fc32eb357.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Zardetto Prosecco,9.67,22.99,https://products2.imgix.drizly.com/ci-zardetto-prosecco-798d31c9c7b9a95b.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Jt Ps Sauvignon Blanc,None,None,https://products0.imgix.drizly.com/ci-jt-ps-sauvignon-blanc-074eb789af36bc8c.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Matua Pinot Noir Rosé,5.49,19.99,https://products1.imgix.drizly.com/ci-matua-pinot-noir-rose-05a1e4f4f8c3d872.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mercat Cava Brut Nature,13.99,17.99,https://products3.imgix.drizly.com/ci-mercat-cava-brut-nature-86efb28815634037.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Flaco Tempranillo,6.59,17.99,https://products0.imgix.drizly.com/ci-flaco-tempranillo-344c5427886cf960.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Da Vinci Pinot Grigio,8.97,19.99,https://products3.imgix.drizly.com/ci-da-vinci-pinot-grigio-c8e44b72f6262689.tif?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Dark Horse Sparkling Brut Rosé,9.99,27.99,https://products1.imgix.drizly.com/ci-dark-horse-brut-rose-d037afa4eac042e0.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bartolomeo Da Breganze Prosecco Extra Dry,9.99,14.99,https://products2.imgix.drizly.com/ci-bartolomeo-da-breganze-prosecco-extra-dry-d72203436643f45d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Fournier Sancerre,21.99,39.99,https://products0.imgix.drizly.com/ci-fournier-sancerre-3a6fa0bb2f27a7ef.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Antinori Santa Cristina Tuscana Rosso,7.99,18.99,https://products1.imgix.drizly.com/ci-antinori-santa-cristina-tuscana-rosso-470d73771d09fa71.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bonterra Organic Merlot,9.38,24.95,https://products1.imgix.drizly.com/ci-bonterra-organic-merlot-46dab962a77f5b1f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,M. Chapoutier Belleruche Cotes du Rhone Rosé,8.99,28.99,https://products1.imgix.drizly.com/ci-m-chapoutier-belleruche-cotes-du-rhone-rose-067eecb11f510e65.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Gruet Demi Sec,11.88,23.00,https://products2.imgix.drizly.com/ci-gruet-demi-sec-81d9b500e79b3ca7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Oyster Bay Pinot Noir,5.99,27.09,https://products0.imgix.drizly.com/ci-oyster-bay-pinot-noir-271900af3d37d238.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,J. Lohr Pinot Noir,12.99,27.99,https://products1.imgix.drizly.com/ci-j-lohr-pinot-noir-f831c243bb398f59.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Mollydooker The Boxer Shiraz,22.99,39.99,https://products1.imgix.drizly.com/ci-mollydooker-the-boxer-shiraz-a26198b553a43f77.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Korbel Sweet Rosé California Champagne,9.97,22.87,https://products3.imgix.drizly.com/ci-korbel-sweet-rose-7776098d914a444f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau De Campuget Rosé Tradition,5.99,19.99,https://products3.imgix.drizly.com/ci-campuget-rose-1c6ca902aa20673d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Cavicchioli 1928 Prosecco,10.97,19.99,https://products1.imgix.drizly.com/ci-cavicchioli-1928-prosecco-5992b7e1714ee1a6.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Astoria Prosecco D.O.C.,8.99,14.99,https://products1.imgix.drizly.com/ci-astoria-prosecco-doc-7d58621516a25250.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Joel Gott Pinot Noir,13.99,32.99,https://products2.imgix.drizly.com/ci-joel-gott-pinot-noir-f04c8c2aae2c9058.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bogle Vineyards Essential Red,7.99,19.99,https://products1.imgix.drizly.com/ci-bogle-vineyards-essential-red-79a254e7030758b6.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franciscan Chardonnay,5.00,31.99,https://products0.imgix.drizly.com/ci-franciscan-chardonnay-7ae50361287c61eb.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Minuty 'M' Cotes de Provence Rosé,11.99,27.99,https://products2.imgix.drizly.com/ci-chateau-minuty-m-cotes-de-provence-rose-4d4f5509e1299142.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chateau Ste. Michelle Harvest Select Riesling,6.98,15.99,https://products3.imgix.drizly.com/ci-chateau-ste-michelle-harvest-select-riesling-b1f7e25f3f43b727.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,House Wine Rosé Bubbles,None,None,https://products2.imgix.drizly.com/ci-house-wine-rose-bubbles-b1a82763a23e2916.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Pol Roger Brut Réserve,38.99,139.99,https://products2.imgix.drizly.com/ci-pol-roger-brut-739d7f5c4bd455d1.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Bacchus Cabernet Sauvignon,8.99,17.99,https://products0.imgix.drizly.com/ci-bacchus-cabernet-sauvignon-e8285034db2d5aa2.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,A to Z Pinot Gris,9.99,21.99,https://products3.imgix.drizly.com/ci-a-to-z-pinot-gris-6625be1af9e4111d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Clos De Los Siete Malbec,14.98,29.09,https://products3.imgix.drizly.com/ci-clos-de-los-siete-malbec-41de7f7a16fbf5d1.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Sterling Cabernet Sauvignon,11.69,49.99,https://products3.imgix.drizly.com/ci-sterling-cabernet-sauvignon-2db9a3e8d61a9deb.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Chloe Pinot Grigio,7.99,23.99,https://products3.imgix.drizly.com/ci-chloe-pinot-grigio-e67f6bd889afaa7d.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Oliver Soft Red,6.99,12.09,https://products2.imgix.drizly.com/ci-oliver-soft-red-df28d53c170d0d9f.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,1000 Stories Zinfandel,13.98,34.99,https://products2.imgix.drizly.com/ci-1000-stories-zinfandel-263c91ed6d1f9e46.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Franzia Chillable Red,None,None,https://products0.imgix.drizly.com/ci-franzia-chillable-red-2154ea798c075433.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Alverdi Pinot Grigio,4.99,14.99,https://products1.imgix.drizly.com/ci-alverdi-pinot-grigio-adb5de8cefd1b053.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Daou Vineyards Cabernet Sauvignon,21.19,42.99,https://products1.imgix.drizly.com/ci-daou-vineyards-cabernet-sauvignon-842afa17c1765914.png?auto=format%2Ccompress&fm=jpeg&q=20
+WINE,Portillo Malbec,5.99,16.99,https://products3.imgix.drizly.com/ci-portillo-malbec-7c96f3d2915b3ff0.jpeg?auto=format%2Ccompress&fm=jpeg&q=20
